@@ -1,3 +1,4 @@
+# last build: 22-05-2018 10:26:22
 FROM debian:9.4
 
 RUN apt-get update \
